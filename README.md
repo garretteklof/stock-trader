@@ -1,7 +1,3 @@
-
-
-<img src="/src/assets/logo.png" height='200px' width='200px'/>
-
 # stock-trader
 A trivial stock trading application built with Vue.js
 
